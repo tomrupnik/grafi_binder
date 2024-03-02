@@ -1,1 +1,15 @@
-install.packages(c("plotly","shiny"))
+install.packages(c(
+  "shiny",
+  "plotly",
+  "dplyr",
+  "tidyverse",
+  "highcharter",
+  "tidyr",
+  "tidyverse",
+  "geofacet",
+  "ggh4x",
+  "streamgraph",
+  "hrbrthemes",
+  "ggtext"
+))
+install.packages("rmarkdown")
