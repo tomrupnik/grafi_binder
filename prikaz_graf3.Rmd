@@ -30,6 +30,8 @@ df_mankajoce_vrednosti = podatki[!complete.cases(podatki), ]
 df = na.omit(podatki)
 ```
 
+### Delež smrti glede na vzrok po kohezijskih regijah
+
 ```{r message=FALSE, warning=FALSE, include=FALSE}
 mz = podatki[podatki$SPOL == "Moski" & podatki$KOHEZIJSKA.REGIJA == "Zahodna Slovenija" & podatki$VZROK.SMRTI != "Vzrok smrti - SKUPAJ", ]
 mv = podatki[podatki$SPOL == "Moski" & podatki$KOHEZIJSKA.REGIJA == "Vzhodna Slovenija" & podatki$VZROK.SMRTI != "Vzrok smrti - SKUPAJ", ]
