@@ -1,1 +1,1 @@
-install.packages("plotly")
+install.packages(c("plotly","shiny"))
