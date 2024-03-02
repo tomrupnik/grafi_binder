@@ -1,7 +1,7 @@
 ---
-title: "sem"
-author: "Tom Rupnik Medjedovič"
-date: "2024-03-02"
+title: "Seminarska"
+author: "Neža Kržan, Tom Rupnik Medjedovič"
+date: "2024-02-27"
 runtime: shiny
 output: html_document
 ---
