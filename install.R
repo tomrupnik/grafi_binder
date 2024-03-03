@@ -10,6 +10,10 @@ install.packages(c(
   "ggh4x",
   "streamgraph",
   "hrbrthemes",
-  "ggtext"
+  "ggtext",
+  "expm",
+  "formatR",
+  "numDeriv",
+  "rootSolve",
+  "rmarkdown"
 ))
-install.packages("rmarkdown")
