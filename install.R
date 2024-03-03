@@ -11,9 +11,5 @@ install.packages(c(
   "streamgraph",
   "hrbrthemes",
   "ggtext",
-  "expm",
-  "formatR",
-  "numDeriv",
-  "rootSolve",
   "rmarkdown"
 ))
