@@ -10,6 +10,6 @@ install.packages(c(
   "ggh4x",
   "streamgraph",
   "hrbrthemes",
-  "ggtext",
-  "rmarkdown"
+  "ggtext"
 ))
+install.packages("rmarkdown")
