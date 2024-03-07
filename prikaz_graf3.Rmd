@@ -9,8 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 
 library(plotly)
-library(shiny)
-library(viridis)
 ```
 
 ```{r include=FALSE}
