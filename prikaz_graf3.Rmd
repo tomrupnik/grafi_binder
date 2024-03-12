@@ -159,3 +159,4 @@ server <- function(input, output) {
 
 shinyApp(ui,server)
 ```
+<font size="1"> Vir: Podatkovna baza SiStat. Prebivalstvo/Rojeni in umrli/Vzrok smrti. Dostopno na URL: https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05L3013S.px. </font>
